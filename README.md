@@ -35,5 +35,3 @@ This repository showcases my work in setting up a continuous integration and con
 
 4. Test the pipeline by making a code change in your repository.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
